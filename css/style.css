@@ -44,8 +44,8 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
 }
 
-.logo-gif {
-    max-width: 80px;
+.logo {
+    max-width: 90px;
     height: auto;
     margin-right: 15px;
     border-radius: 50%;
